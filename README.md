@@ -1,5 +1,33 @@
 # HackathonPractice
 
+
+## To run this project :
+
+1) Download the zip file from this repo.
+
+2) Extract the zip file to a folder
+
+3) Open the folder in cmd and type - 
+            npm install
+
+4) Wait for it to finish.
+
+5) Then type -
+             ng serve
+             
+6) Wait for it to finish compiling.
+
+7) Once that's done, navigate to -
+          http://localhost:4200
+          
+          
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
 
 ## Development server
